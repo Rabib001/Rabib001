@@ -48,7 +48,7 @@ def header(mode, t):
     cmd = "whoami"
     cw = 9.0  # approx monospace advance at 15px
     body = f"""
-<g fill="{t['border']}"><circle cx="22" cy="20" r="5"/><circle cx="38" cy="20" r="5"/><circle cx="54" cy="20" r="5"/></g>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
 <line x1="0" y1="40" x2="{W}" y2="40" stroke="{t['border']}"/>
 <g font-family="{MONO}" font-size="15">
   <text x="28" y="74" fill="{t['accent']}">$</text>
