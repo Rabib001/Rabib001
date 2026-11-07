@@ -3,7 +3,7 @@
   <img src="assets/header-light.svg" width="100%" alt="Rabib Husain, software engineer in Austin, TX">
 </picture>
 
-These days I mostly work on LLM agents and the backend code around them, currently at University Lands / UT System. Before that I did research on LLMs for security at UT Arlington's Cyber Guard Research Lab and interned at Velric.ai.
+These days I mostly work on LLM agents and the backend code around them, currently at [Spaceodd](https://spaceodd.com) and University Lands / UT System. Before that I did research on LLMs for security at UT Arlington's Cyber Guard Research Lab.
 
 I graduated from UT Arlington in 2026. Outside of work I go to hackathons and now and then send a PR to an open-source project.
 
